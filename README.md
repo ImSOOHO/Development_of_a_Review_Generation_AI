@@ -45,6 +45,7 @@
 
 ## -4. 2차 모델 성능 평가 및 2차 설문조사
 - LLM-as-a-Judge 방식을 이용하여 생성된 리뷰 데이터의 품질을 평가(Open AI 의 GPT 모델 API를 이용)
+- LLM-as-a-Judge 참고논문(https://arxiv.org/html/2411.15594v4?utm_source=chatgpt.com)
 - 1차 모델의 생성 결과와 2차 모델의 생성 결과를 각각 평가한 후 결과 비교 (진행중)
 - 2차 설문조사 수행을 통한 신뢰도 변화 추이 관찰(예정)
 ![image](https://github.com/user-attachments/assets/1bcb5843-274f-4546-a3d3-74c1f63703a9)
