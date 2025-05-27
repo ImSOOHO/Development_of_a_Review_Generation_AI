@@ -1,4 +1,5 @@
 # 음식점 리뷰 생성 AI 구축 및 사용자 기반 모델 최적화
+![image](https://github.com/user-attachments/assets/c7abc2f5-a743-4b28-b217-04f44d19783b)
 
 # 1. 프로젝트 개요
 - 프로젝트 기간: 2025.02 ~ 현재 (3개월)
