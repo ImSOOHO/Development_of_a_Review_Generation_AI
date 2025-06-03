@@ -63,3 +63,4 @@
 - 2차 설문조사의 모델 신뢰도는 약 60.31%, 1차 설문조사 모델 신뢰도는 약 44.59%
 - 2차 모델이 1차 모델보다 약 15%p 높은 신뢰도 기록
 ![image](https://github.com/user-attachments/assets/35eca2b6-c99d-4cc6-9cc4-c316d13cd80d)
+<img src="https://github.com/user-attachments/assets/8a9fbde1-a3af-40c3-a23d-f91c73f8367" width="500"/>
