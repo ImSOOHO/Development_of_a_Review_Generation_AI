@@ -47,9 +47,19 @@
 ## -4. 2차 모델 성능 평가 및 2차 설문조사
 - LLM-as-a-Judge 방식을 이용하여 생성된 리뷰 데이터의 품질을 평가(Open AI 의 GPT 모델 API를 이용)
 - LLM-as-a-Judge 참고논문(https://arxiv.org/html/2411.15594v4?utm_source=chatgpt.com)
-- 1차 모델의 생성 결과와 2차 모델의 생성 결과를 각각 평가한 후 결과 비교 (진행중)
-- 2차 설문조사 수행을 통한 신뢰도 변화 추이 관찰(예정)
+- 1차 모델의 생성 결과와 2차 모델의 생성 결과를 각각 평가한 후 결과 비교
+- 2차 설문조사 수행을 통한 신뢰도 변화 추이 관찰
 ![image](https://github.com/user-attachments/assets/1bcb5843-274f-4546-a3d3-74c1f63703a9)
 
 # 5. 분석 결과
-- 2차 설문조사 수행 후 추가 예정...
+- 비용 문제상 OpenAI의 GPT-4-Turbo 모델만 사용하여 LLM-AS-A-JUDGE 구현
+- 총 4개 지표(각각 1~5점 척도)에 대해 LLM-AS-A-Judge 구현(문법성, 유창성, 일관성, 자연스러운 감정 표현)
+- 실행 결과 1차 모델에 비해 2차 모델의 리뷰가 평균 3점이상 높았음
+- 특히 목표했던 문법성 부분에서 가장 큰 개선이 이루어짐
+![image](https://github.com/user-attachments/assets/b57005e6-7d96-4106-af37-0e144aedde32)
+![image](https://github.com/user-attachments/assets/cea3a568-4e7f-40e5-b6a8-21e0f8694e7b)
+
+- 2차 설문조사의 표본수는 32명, 1차 설문조사 표본인 68명 보다 적으나 비용 문제상 진행
+- 2차 설문조사의 모델 신뢰도는 약 60.31%, 1차 설문조사 모델 신뢰도는 약 44.59%
+- 2차 모델이 1차 모델보다 약 15%p 높은 신뢰도 기록
+![image](https://github.com/user-attachments/assets/35eca2b6-c99d-4cc6-9cc4-c316d13cd80d)
