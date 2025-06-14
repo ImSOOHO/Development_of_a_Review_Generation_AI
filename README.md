@@ -1,5 +1,6 @@
 # 음식점 리뷰 생성 AI 구축 및 사용자 기반 모델 최적화
-![image](https://github.com/user-attachments/assets/5d835484-5c99-4604-89d5-bc709e79b089)
+![image](https://github.com/user-attachments/assets/c74072b6-059d-4686-8b5d-934dd4e08e01)
+
 
 
 # 1. 프로젝트 개요
