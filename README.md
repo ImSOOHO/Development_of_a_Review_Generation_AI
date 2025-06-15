@@ -56,7 +56,8 @@
 - 총 네개 지표(문법성, 유창성, 일관성, 감정 표현의 자연스러움)에 대해 각 1~5점 척도로 평가(20점 만점 기준)
 - 2차 모델의 출력값이 1차 모델에 비해 평균적으로 3점 이상 높았고, '문법성' 점수에서 가장 큰 차이를 보여줌
 <img src="https://github.com/user-attachments/assets/b57005e6-7d96-4106-af37-0e144aedde32" width="700"/>
-<img src="https://github.com/user-attachments/assets/cea3a568-4e7f-40e5-b6a8-21e0f8694e7b" width="700"/> <br>
+<img src="https://github.com/user-attachments/assets/cea3a568-4e7f-40e5-b6a8-21e0f8694e7b" width="700"/>
+<br>
 - 가장 큰 신뢰도 저해 요인이었던 '문법성' 요소에서 개선이 이루어졌다고 판단 후 2차 설문조사 진행
 
 
